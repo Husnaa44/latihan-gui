@@ -1,8 +1,8 @@
 # PROGRAM FORMULIR PENDAFTARAN JAVA GUI
 
-**IDENTITAS**
-**Nama:** Asmaul Husnah
-**NIM:** F1D02510106
+| Nama | NIM |
+|------|-----|
+| Asmaul Husnah | F1D02510106 |
 
 ## 1. Deskripsi Program
 Program ini merupakan aplikasi formulir pendaftaran sederhana yang dibuat menggunakan bahasa pemrograman Java dengan menggunakan Java Swing. Program ini digunakan untuk memasukkan data berupa nama, alamat, dan jenis kelamin.
